@@ -46,3 +46,4 @@ p, li { color: var(--text); }
 }
 a { color: var(--accent); }
 footer { margin-top: 48px; color: var(--muted); font-size: 14px; }
+.sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
