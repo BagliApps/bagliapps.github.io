@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "apps": [
+    {
+      "id": "com.alperbagli.wordmist",
+      "name": "WordMist",
+      "icon": "https://bagliapps.github.io/apps/wordmist.png",
+      "ios": "6827121570",
+      "tagline": {
+        "en": "Learn English words from Home and Lock Screen widgets",
+        "tr": "Ana ekran ve kilit ekranı widget'larıyla İngilizce kelime öğren",
+        "es": "Aprende palabras en inglés con widgets de inicio y bloqueo"
+      }
+    },
+    {
+      "id": "com.alperbagli.puzzlish",
+      "name": "Puzzlish",
+      "icon": "https://bagliapps.github.io/apps/puzzlish.png",
+      "ios": "6827504832",
+      "tagline": {
+        "en": "Word puzzles that teach you new words",
+        "tr": "Kelime öğreten kelime bulmacaları",
+        "es": "Pasatiempos de palabras que te enseñan vocabulario"
+      }
+    },
+    {
+      "id": "com.alperbagli.stillpiece",
+      "name": "Stillpiece",
+      "icon": "https://bagliapps.github.io/apps/stillpiece.png",
+      "ios": "6824636510",
+      "tagline": {
+        "en": "Calm jigsaw puzzles with public-domain art",
+        "tr": "Klasik sanat eserleriyle sakin yapboz",
+        "es": "Rompecabezas tranquilos con arte clásico"
+      }
+    },
+    {
+      "id": "com.alperbagli.walletude",
+      "name": "Walletude",
+      "icon": "https://bagliapps.github.io/apps/walletude.png",
+      "ios": "6821586449",
+      "tagline": {
+        "en": "Simple, private budget and expense tracking",
+        "tr": "Basit ve gizli gelir-gider takibi",
+        "es": "Control de gastos y presupuesto, simple y privado"
+      }
+    }
+  ]
+}
